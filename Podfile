@@ -7,24 +7,24 @@ source 'git@github.com:chieryd/ChieryPodSpec.git'
 target 'ChieryCook' do
 	
 	pod 'ChieryConfigure'
-	pod 'ChieryHomePage'
-	pod 'ChieryCommonKit'
-	pod 'ChieryVCController'
-    pod 'ChieryJumpHandle'
-    pod 'ChieryBusiness1'
-    pod 'ChieryBusiness2'
+	pod 'ChieryHomePageLib'
+	pod 'ChieryCommonKitLib'
+	pod 'ChieryVCControllerLib'
+    pod 'ChieryJumpHandleLib'
+    pod 'ChieryBusiness1Lib'
+    pod 'ChieryBusiness2Lib'
 
 end
 
 target 'ChieryCookApp' do
 
     pod 'ChieryConfigure'
-    pod 'ChieryHomePage'
-    pod 'ChieryCommonKit'
-    pod 'ChieryVCController'
-    pod 'ChieryJumpHandle'
-    pod 'ChieryBusiness1'
-    pod 'ChieryBusiness2'
+    pod 'ChieryHomePageLib'
+    pod 'ChieryCommonKitLib'
+    pod 'ChieryVCControllerLib'
+    pod 'ChieryJumpHandleLib'
+    pod 'ChieryBusiness1Lib'
+    pod 'ChieryBusiness2Lib'
 
 end
 
